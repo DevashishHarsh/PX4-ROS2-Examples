@@ -369,7 +369,7 @@ def multi_drone_move(targets: list):
 
 
 def main():
-    json_path = "/mnt/c/Users/daisu/Downloads/Projects/Drone/drone_points.json"
+    json_path = "points/drone_points.json"
     if not os.path.exists(json_path):
         print(f"File not found: {json_path}")
         return
