@@ -8,3 +8,4 @@ This repository contains examples and all the required files to be used for cont
 
 ## Installation for PX4-Autopilot
 This installation follows the latest PX4-Autopilot from this website [PX4 Installation Guide](https://docs.px4.io/main/en/dev_setup/building_px4).
+> Make sure to use "git checkout 38d67f5" as I have only worked with that specific release and it works for me.
