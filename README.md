@@ -94,7 +94,7 @@ python3 ~/px4_ros2_ws/drone_control/drone_control/points/draw.py
 This will let you draw your shape and let you save it with pressing "Enter" and if you want more shapes to be saved, press "n" to save multiple formations which you can access in the code with "n".
 > You will be prompted to enter the number of drones. Keep the number upto 10 as more drones takes a lot of memory space.
 - Note : Make sure the drawings you make are closed shapes as I have yet to figure out how to distribute them over open shapes.
-[RightWrong](assets/rightwrong.png)
+![RightWrong](assets/rightwrong.png)
 
 ## License
 This repository is provided under the MIT License.
